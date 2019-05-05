@@ -9,7 +9,7 @@ Y ejecutar el comando npm install.
 ```
 Cristhian Caldas Mendoza
 ```
-Linkedin : https://www.linkedin.com/in/caldasmendoza/
+![Imagen de Linkedin](src/imagenes/linkedin.png): https://www.linkedin.com/in/caldasmendoza/
 
 # License
 Gratuito 
