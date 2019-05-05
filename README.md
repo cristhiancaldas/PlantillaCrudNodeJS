@@ -8,7 +8,7 @@ Y ejecutar el comando npm install.
 # AUTOR 
 ```
 Cristhian Caldas Mendoza
-Linkedin https://www.linkedin.com/in/caldasmendoza/
+Linkedin : https://www.linkedin.com/in/caldasmendoza/
 ```
 # License
 Gratuito 
