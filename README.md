@@ -12,4 +12,4 @@ Cristhian Caldas Mendoza
 ![Imagen de Linkedin](src/imagenes/linkedin-icon.png)  https://www.linkedin.com/in/caldasmendoza/
 
 # License
-Gratuito 
+MIT
